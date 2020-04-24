@@ -1,0 +1,16 @@
+<h1>Searching <small>{{ searchComic }}</small></h1>
+<hr>
+
+<div class="row animated fadeIn fast" *ngIf="heroes.length == 0">
+    <div class="col-md-12">
+        <div class="alert alert-info" role="alert">
+            There aren't exist results with the term finished: {{ searchComic }}
+        </div>
+    </div>
+</div>
+
+<div class="card-columns">
+
+    <app-comic-card [heroe]="heroe" [index]="heroe.index" *ngFor="let heroe of heroes"></app-comic-card>
+
+</div>
