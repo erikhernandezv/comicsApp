@@ -43,7 +43,7 @@ Usamos [git](https://git-scm.com/) para el versionado. Para todas las versiones 
 
 ## Expresiones de Gratitud 🎁
 
-* Este proyecto lo desarrolle durante ese largo camino de una cuarentena por COVID-19 siguiendo el curso de Fernando Herrera en udemy.com, espero que 📢
+* Este proyecto lo desarrolle durante ese largo camino de una cuarentena por COVID-19 siguiendo el curso de Fernando Herrera en udemy.com 📢
 * Agradezco tus colaboraciones o sugerencias y nuevos retos, brindemos virtualmente con una 🍺 o un café. 
 * Puerdes escribirme en @ErikHernandezV o erikdhv@gmail.com 🤓.
 * etc.
