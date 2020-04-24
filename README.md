@@ -1,27 +1,54 @@
-# Spa
+# ComicsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+_This is an example application, to learn Angular 9. The application has the following functionalities. Search, comic card, tab about, use  for components, etc._
 
-## Development server
+## Comenzando 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Pre-requisitos 📋
 
-## Build
+_Para desplegar la aplicación recuerda tener instaladas las herramientas necesaria como:_
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```
+Angular CLI
+```
 
-## Running unit tests
+## Ejecutando la App 📦
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+_Recuerda que para ejecutar la aplicacion debes ingresar a la carpeta del proyecto y ejecutar el siguiente comando:_
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```
+ng serve -o
+```
 
-## Further help
+_La opción **-o** para que se depliegue automáticamanete la aplicación en el navegador web_
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Construido con 🛠️
+
+_La aplicación fue desarrollada con _
+
+* [Angular 9](https://angular.io//) - El framework web para desarrollo de aplicaciones web dinámicas
+* [Boostrap](https://getbootstrap.com/) - Framework CSS gratuito y de código abierto dirigido al desarrollo web front-end.
+
+## Versionado 📌
+
+Usamos [git](https://git-scm.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/erikhernandezv/comicsApp).
+
+## Autor ✒️
+
+* **Erik Darío Hernández Vásquez** - *Trabajo Inicial* - [erikhernandezv](https://github.com/erikhernandezv)
+
+## Expresiones de Gratitud 🎁
+
+* Este proyecto lo desarrolle durante ese largo camino de una cuarentena por COVID-19 siguiendo el curso de Fernando Herrera en udemy.com, espero que 📢
+* Agradezco tus colaboraciones o sugerencias y nuevos retos, brindemos virtualmente con una 🍺 o un café. 
+* Puerdes escribirme en @ErikHernandezV o erikdhv@gmail.com 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [erikhernandezv](https://github.com/erikhernandezv) 😊
