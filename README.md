@@ -1,7 +1,5 @@
 # ComicsApp
 
-This is an example application, to learn Angular 9. The application has the following functionalities. Search, comic card, tab about, use  for components, etc.
-
 _This is an example application, to learn Angular 9. The application has the following functionalities. Search, comic card, tab about, use  for components, etc._
 
 ## Comenzando 🚀
